@@ -3,12 +3,12 @@
     <channel>
         <title>easy_task</title>
         <item>
-            <title>1.4.6</title>
-            <pubDate>Mon, 12 Oct 2026 13:34:54 +0900</pubDate>
-            <sparkle:version>13</sparkle:version>
-            <sparkle:shortVersionString>1.4.6</sparkle:shortVersionString>
+            <title>1.4.7</title>
+            <pubDate>Mon, 12 Oct 2026 14:38:28 +0900</pubDate>
+            <sparkle:version>14</sparkle:version>
+            <sparkle:shortVersionString>1.4.7</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/kk333616/easy-task-releases/releases/download/v1.4.6/easy-task-macos-v1.4.6.zip" length="34156736" type="application/octet-stream" sparkle:edSignature="0N9+OkU/tkox1r4oNR6L1vDh4m/dBjEsv5y2fHdu8R7YOSr945rsYapFN08hs63tZY18c44VzAqvq529KaISBQ=="/>
+            <enclosure url="https://github.com/kk333616/easy-task-releases/releases/download/v1.4.7/easy-task-macos-v1.4.7.zip" length="34156738" type="application/octet-stream" sparkle:edSignature="MIa0QgmyBcbKSBafrfdTBPe/ammAJnJXuYrI1Y5PgEKPAAtou4ZFT5p/fzJbFURnoluUPRwtjhKjbSbzNT5HBQ=="/>
         </item>
     </channel>
 </rss>
