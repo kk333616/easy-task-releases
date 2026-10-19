@@ -1,14 +1,23 @@
-<?xml version="1.0" standalone="yes"?>
+<?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>easy_task</title>
+        <item>
+            <title>1.4.10</title>
+            <pubDate>Mon, 19 Oct 2026 05:06:48 +0000</pubDate>
+            <sparkle:version>17</sparkle:version>
+            <sparkle:shortVersionString>1.4.10</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+            <link>https://github.com/kk333616/easy-task-releases/releases/tag/v1.4.10</link>
+            <enclosure url="https://github.com/kk333616/easy-task-releases/releases/download/v1.4.10/easy-task-macos-v1.4.10.zip" length="34258674" type="application/octet-stream" sparkle:edSignature="TQcd5A7wFQpW+9Dlfms8xcg9WXZXH/7U8OlOAF+b7LiEVqXkDt/KQHH+t4gpcodaE3As7ZI/EEy0U2FR10VyAA==" />
+        </item>
         <item>
             <title>1.4.9</title>
             <pubDate>Mon, 19 Oct 2026 02:43:52 +0900</pubDate>
             <sparkle:version>16</sparkle:version>
             <sparkle:shortVersionString>1.4.9</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/kk333616/easy-task-releases/releases/download/v1.4.9/easy-task-macos-v1.4.9.zip" length="34156743" type="application/octet-stream" sparkle:edSignature="kxAbyF+tAnM/slcrZDvyYRJbalu+VRlF0pklakv01e6au7fOgFAF7L8l4RWTwkoCDHyXYy73CPBwk8+N8P1MAw=="/>
+            <enclosure url="https://github.com/kk333616/easy-task-releases/releases/download/v1.4.9/easy-task-macos-v1.4.9.zip" length="34156743" type="application/octet-stream" sparkle:edSignature="kxAbyF+tAnM/slcrZDvyYRJbalu+VRlF0pklakv01e6au7fOgFAF7L8l4RWTwkoCDHyXYy73CPBwk8+N8P1MAw==" />
         </item>
     </channel>
 </rss>
